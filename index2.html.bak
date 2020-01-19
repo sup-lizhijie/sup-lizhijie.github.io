@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>列表</title>
+ </head>
+ <body style="background-color:#700000;">
+  <h1>推荐书单</h1>
+  <hr>
+  <ul type="square">
+	<li><a href=https://book.douban.com/subject/4258830/ target="_blank">乌合之众<img src="C:\Users\李智杰\Desktop\dome/s4423103.jpg" width="100" heigth="100" title="乌合之众" alt="加载失败"></a></li>
+	<li><a href=https://book.douban.com/subject/27608239/ target="_blank">原则<img src="dome/s29689353.jpg" width="100" heigth="100" title="原则" alt="加载失败"></a></li>
+	<li><a href=https://book.douban.com/subject/1201821/ target="_blank">梦的解析<img src="dome/s3782055.jpg" width="100" heigth="100" title="梦的解析" alt="加载失败"></a></li>
+	<li><a href=https://book.douban.com/subject/27179563/ target="_blank">激荡十年：水大鱼大<img src="dome/s29636034.jpg" width="100" heigth="100" title="激荡十年：水大鱼大" alt="加载失败"></a></li>
+	<li><a href=https://book.douban.com/subject/1056295/ target="_blank">人性的弱点<img src="dome/s1083685.jpg" width="100" heigth="100" title="人性的弱点" alt="加载失败"></a></li>
+	<li><a href=https://book.douban.com/subject/26851515/ target="_blank">细节<img src="dome/s28970361.jpg" width="100" heigth="100" title="细节" alt="加载失败"></a></li>
+  </ul><!--无序列表-->
+	<hr>
+	<ol type="I"><!--有序列表-->
+		<li><a href=https://book.douban.com/subject/3995526/ target="_blank">《目送》<img src="dome/s3984108.jpg" width="100" heigth="100" title="《目送》" alt="加载失败"></a></li>
+		<li><a href=https://book.douban.com/subject/1257217/ target="_blank">《时间简史》<img src="dome/s9111416.jpg" width="100" heigth="100" title="《时间简史》" alt="加载失败"></a></li>
+		<li><a href=https://book.douban.com/subject/3803820/ target="_blank">《人生》<img src="dome/s3847911.jpg" width="100" heigth="100" title="《人生》" alt="加载失败"></a></li>
+		<li><a href=https://book.douban.com/subject/1475128/ target="_blank">《人的潜能和价值》<img src="dome/s1625613.jpg" width="100" heigth="100" title="《人的潜能和价值》" alt="加载失败"><a></li>
+		<li><a href=https://book.douban.com/subject/1084336/ target="_blank" >《小王子》<img src="dome/s1103152.jpg" width="100" heigth="100" title="《小王子》" alt="加载失败"></a></li>
+
+	</ol>
+
+ </body>
+</html>
